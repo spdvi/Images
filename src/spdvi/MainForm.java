@@ -98,7 +98,7 @@ public class MainForm extends javax.swing.JFrame {
                         .addComponent(lblImageView2, javax.swing.GroupLayout.PREFERRED_SIZE, 300, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(btnResizeImage2)))
-                .addContainerGap(278, Short.MAX_VALUE))
+                .addContainerGap(39, Short.MAX_VALUE))
         );
 
         pack();
